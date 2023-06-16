@@ -2,8 +2,7 @@
 
 <div> 
 <a href="https://github.com/iDouglasS">
-<img height="130 " src="https://github-readme-stats.vercel.app/api?username=iDouglasS&theme=dark&show_icons=true"/>
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDouglasS&layout=compact&theme=dark&show"/>
+<img height="180 " src="https://github-readme-stats.vercel.app/api?username=iDouglasS&theme=dark&show_icons=true"/>
 <div>
 
 <div style="display: inline_block"><br>
